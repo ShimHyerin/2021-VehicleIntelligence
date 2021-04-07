@@ -14,4 +14,4 @@
 - 사진 파일은 [여기](https://github.com/ShimHyerin/2021-VehicleIntelligence/tree/main/HW1/LaneDetection)에 있음
 - (주의)업로드된 이미지의 파일명과 코드 내에 작성된 이미지의 파일명이 다릅니다. 코드 실행시 주의하세요!
 
-[img](https://github.com/ShimHyerin/2021-VehicleIntelligence/blob/main/HW1/LaneDetection/pic4.jpg?raw=true)
+![img](https://github.com/ShimHyerin/2021-VehicleIntelligence/blob/main/HW1/LaneDetection/pic4.jpg?raw=true)
