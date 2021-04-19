@@ -1,0 +1,4737 @@
+
+
+---------Model :: AlexNet ---------
+
+step : 1 / 390.625
+top-1 percentage :  52.34%
+top-5 percentage :  76.56%
+step : 2 / 390.625
+top-1 percentage :  52.34%
+top-5 percentage :  77.34%
+step : 3 / 390.625
+top-1 percentage :  54.95%
+top-5 percentage :  76.82%
+step : 4 / 390.625
+top-1 percentage :  55.08%
+top-5 percentage :  77.34%
+step : 5 / 390.625
+top-1 percentage :  54.53%
+top-5 percentage :  78.28%
+step : 6 / 390.625
+top-1 percentage :  54.43%
+top-5 percentage :  78.12%
+step : 7 / 390.625
+top-1 percentage :  54.58%
+top-5 percentage :  78.46%
+step : 8 / 390.625
+top-1 percentage :  55.47%
+top-5 percentage :  79.39%
+step : 9 / 390.625
+top-1 percentage :  55.56%
+top-5 percentage :  79.34%
+step : 10 / 390.625
+top-1 percentage :  55.94%
+top-5 percentage :  79.06%
+step : 11 / 390.625
+top-1 percentage :  55.75%
+top-5 percentage :  78.98%
+step : 12 / 390.625
+top-1 percentage :  55.86%
+top-5 percentage :  78.91%
+step : 13 / 390.625
+top-1 percentage :  55.41%
+top-5 percentage :  78.85%
+step : 14 / 390.625
+top-1 percentage :  55.52%
+top-5 percentage :  78.96%
+step : 15 / 390.625
+top-1 percentage :  55.05%
+top-5 percentage :  78.54%
+step : 16 / 390.625
+top-1 percentage :  54.64%
+top-5 percentage :  78.32%
+step : 17 / 390.625
+top-1 percentage :  54.46%
+top-5 percentage :  78.17%
+step : 18 / 390.625
+top-1 percentage :  54.99%
+top-5 percentage :  78.56%
+step : 19 / 390.625
+top-1 percentage :  55.02%
+top-5 percentage :  78.58%
+step : 20 / 390.625
+top-1 percentage :  55.16%
+top-5 percentage :  78.71%
+step : 21 / 390.625
+top-1 percentage :  55.10%
+top-5 percentage :  78.83%
+step : 22 / 390.625
+top-1 percentage :  55.08%
+top-5 percentage :  79.01%
+step : 23 / 390.625
+top-1 percentage :  55.06%
+top-5 percentage :  78.77%
+step : 24 / 390.625
+top-1 percentage :  55.01%
+top-5 percentage :  78.74%
+step : 25 / 390.625
+top-1 percentage :  54.84%
+top-5 percentage :  78.44%
+step : 26 / 390.625
+top-1 percentage :  55.20%
+top-5 percentage :  78.79%
+step : 27 / 390.625
+top-1 percentage :  55.21%
+top-5 percentage :  78.67%
+step : 28 / 390.625
+top-1 percentage :  55.02%
+top-5 percentage :  78.77%
+step : 29 / 390.625
+top-1 percentage :  55.15%
+top-5 percentage :  78.85%
+step : 30 / 390.625
+top-1 percentage :  55.29%
+top-5 percentage :  78.98%
+step : 31 / 390.625
+top-1 percentage :  55.49%
+top-5 percentage :  79.16%
+step : 32 / 390.625
+top-1 percentage :  55.62%
+top-5 percentage :  79.30%
+step : 33 / 390.625
+top-1 percentage :  55.49%
+top-5 percentage :  79.14%
+step : 34 / 390.625
+top-1 percentage :  55.65%
+top-5 percentage :  79.32%
+step : 35 / 390.625
+top-1 percentage :  55.71%
+top-5 percentage :  79.31%
+step : 36 / 390.625
+top-1 percentage :  55.56%
+top-5 percentage :  79.14%
+step : 37 / 390.625
+top-1 percentage :  55.72%
+top-5 percentage :  79.14%
+step : 38 / 390.625
+top-1 percentage :  55.67%
+top-5 percentage :  79.05%
+step : 39 / 390.625
+top-1 percentage :  55.51%
+top-5 percentage :  79.17%
+step : 40 / 390.625
+top-1 percentage :  55.55%
+top-5 percentage :  79.28%
+step : 41 / 390.625
+top-1 percentage :  55.62%
+top-5 percentage :  79.29%
+step : 42 / 390.625
+top-1 percentage :  55.64%
+top-5 percentage :  79.37%
+step : 43 / 390.625
+top-1 percentage :  55.83%
+top-5 percentage :  79.47%
+step : 44 / 390.625
+top-1 percentage :  55.84%
+top-5 percentage :  79.39%
+step : 45 / 390.625
+top-1 percentage :  55.83%
+top-5 percentage :  79.36%
+step : 46 / 390.625
+top-1 percentage :  55.98%
+top-5 percentage :  79.48%
+step : 47 / 390.625
+top-1 percentage :  56.00%
+top-5 percentage :  79.54%
+step : 48 / 390.625
+top-1 percentage :  55.94%
+top-5 percentage :  79.46%
+step : 49 / 390.625
+top-1 percentage :  55.87%
+top-5 percentage :  79.43%
+step : 50 / 390.625
+top-1 percentage :  55.75%
+top-5 percentage :  79.39%
+step : 51 / 390.625
+top-1 percentage :  55.65%
+top-5 percentage :  79.30%
+step : 52 / 390.625
+top-1 percentage :  55.57%
+top-5 percentage :  79.30%
+step : 53 / 390.625
+top-1 percentage :  55.56%
+top-5 percentage :  79.30%
+step : 54 / 390.625
+top-1 percentage :  55.53%
+top-5 percentage :  79.28%
+step : 55 / 390.625
+top-1 percentage :  55.50%
+top-5 percentage :  79.25%
+step : 56 / 390.625
+top-1 percentage :  55.64%
+top-5 percentage :  79.27%
+step : 57 / 390.625
+top-1 percentage :  55.58%
+top-5 percentage :  79.18%
+step : 58 / 390.625
+top-1 percentage :  55.60%
+top-5 percentage :  79.20%
+step : 59 / 390.625
+top-1 percentage :  55.60%
+top-5 percentage :  79.22%
+step : 60 / 390.625
+top-1 percentage :  55.70%
+top-5 percentage :  79.22%
+step : 61 / 390.625
+top-1 percentage :  55.67%
+top-5 percentage :  79.09%
+step : 62 / 390.625
+top-1 percentage :  55.58%
+top-5 percentage :  78.94%
+step : 63 / 390.625
+top-1 percentage :  55.51%
+top-5 percentage :  78.89%
+step : 64 / 390.625
+top-1 percentage :  55.52%
+top-5 percentage :  78.87%
+step : 65 / 390.625
+top-1 percentage :  55.47%
+top-5 percentage :  78.89%
+step : 66 / 390.625
+top-1 percentage :  55.45%
+top-5 percentage :  78.91%
+step : 67 / 390.625
+top-1 percentage :  55.54%
+top-5 percentage :  78.91%
+step : 68 / 390.625
+top-1 percentage :  55.63%
+top-5 percentage :  78.93%
+step : 69 / 390.625
+top-1 percentage :  55.73%
+top-5 percentage :  78.99%
+step : 70 / 390.625
+top-1 percentage :  55.69%
+top-5 percentage :  79.00%
+step : 71 / 390.625
+top-1 percentage :  55.68%
+top-5 percentage :  78.95%
+step : 72 / 390.625
+top-1 percentage :  55.61%
+top-5 percentage :  78.92%
+step : 73 / 390.625
+top-1 percentage :  55.66%
+top-5 percentage :  78.96%
+step : 74 / 390.625
+top-1 percentage :  55.68%
+top-5 percentage :  78.97%
+step : 75 / 390.625
+top-1 percentage :  55.58%
+top-5 percentage :  78.91%
+step : 76 / 390.625
+top-1 percentage :  55.55%
+top-5 percentage :  78.94%
+step : 77 / 390.625
+top-1 percentage :  55.58%
+top-5 percentage :  79.00%
+step : 78 / 390.625
+top-1 percentage :  55.52%
+top-5 percentage :  78.97%
+step : 79 / 390.625
+top-1 percentage :  55.54%
+top-5 percentage :  78.93%
+step : 80 / 390.625
+top-1 percentage :  55.52%
+top-5 percentage :  78.88%
+step : 81 / 390.625
+top-1 percentage :  55.51%
+top-5 percentage :  78.84%
+step : 82 / 390.625
+top-1 percentage :  55.49%
+top-5 percentage :  78.82%
+step : 83 / 390.625
+top-1 percentage :  55.65%
+top-5 percentage :  78.84%
+step : 84 / 390.625
+top-1 percentage :  55.58%
+top-5 percentage :  78.78%
+step : 85 / 390.625
+top-1 percentage :  55.62%
+top-5 percentage :  78.79%
+step : 86 / 390.625
+top-1 percentage :  55.64%
+top-5 percentage :  78.73%
+step : 87 / 390.625
+top-1 percentage :  55.55%
+top-5 percentage :  78.68%
+step : 88 / 390.625
+top-1 percentage :  55.56%
+top-5 percentage :  78.70%
+step : 89 / 390.625
+top-1 percentage :  55.57%
+top-5 percentage :  78.70%
+step : 90 / 390.625
+top-1 percentage :  55.56%
+top-5 percentage :  78.68%
+step : 91 / 390.625
+top-1 percentage :  55.73%
+top-5 percentage :  78.73%
+step : 92 / 390.625
+top-1 percentage :  55.65%
+top-5 percentage :  78.73%
+step : 93 / 390.625
+top-1 percentage :  55.61%
+top-5 percentage :  78.68%
+step : 94 / 390.625
+top-1 percentage :  55.67%
+top-5 percentage :  78.70%
+step : 95 / 390.625
+top-1 percentage :  55.67%
+top-5 percentage :  78.70%
+step : 96 / 390.625
+top-1 percentage :  55.73%
+top-5 percentage :  78.70%
+step : 97 / 390.625
+top-1 percentage :  55.75%
+top-5 percentage :  78.70%
+step : 98 / 390.625
+top-1 percentage :  55.75%
+top-5 percentage :  78.68%
+step : 99 / 390.625
+top-1 percentage :  55.82%
+top-5 percentage :  78.68%
+step : 100 / 390.625
+top-1 percentage :  55.91%
+top-5 percentage :  78.76%
+step : 101 / 390.625
+top-1 percentage :  55.89%
+top-5 percentage :  78.74%
+step : 102 / 390.625
+top-1 percentage :  55.85%
+top-5 percentage :  78.71%
+step : 103 / 390.625
+top-1 percentage :  55.87%
+top-5 percentage :  78.76%
+step : 104 / 390.625
+top-1 percentage :  55.89%
+top-5 percentage :  78.76%
+step : 105 / 390.625
+top-1 percentage :  55.89%
+top-5 percentage :  78.81%
+step : 106 / 390.625
+top-1 percentage :  55.87%
+top-5 percentage :  78.77%
+step : 107 / 390.625
+top-1 percentage :  55.76%
+top-5 percentage :  78.73%
+step : 108 / 390.625
+top-1 percentage :  55.87%
+top-5 percentage :  78.74%
+step : 109 / 390.625
+top-1 percentage :  55.86%
+top-5 percentage :  78.76%
+step : 110 / 390.625
+top-1 percentage :  55.85%
+top-5 percentage :  78.71%
+step : 111 / 390.625
+top-1 percentage :  55.87%
+top-5 percentage :  78.74%
+step : 112 / 390.625
+top-1 percentage :  55.87%
+top-5 percentage :  78.73%
+step : 113 / 390.625
+top-1 percentage :  55.91%
+top-5 percentage :  78.78%
+step : 114 / 390.625
+top-1 percentage :  55.91%
+top-5 percentage :  78.80%
+step : 115 / 390.625
+top-1 percentage :  55.94%
+top-5 percentage :  78.80%
+step : 116 / 390.625
+top-1 percentage :  55.92%
+top-5 percentage :  78.81%
+step : 117 / 390.625
+top-1 percentage :  55.90%
+top-5 percentage :  78.77%
+step : 118 / 390.625
+top-1 percentage :  55.91%
+top-5 percentage :  78.78%
+step : 119 / 390.625
+top-1 percentage :  55.85%
+top-5 percentage :  78.72%
+step : 120 / 390.625
+top-1 percentage :  55.85%
+top-5 percentage :  78.74%
+step : 121 / 390.625
+top-1 percentage :  55.89%
+top-5 percentage :  78.74%
+step : 122 / 390.625
+top-1 percentage :  55.89%
+top-5 percentage :  78.68%
+step : 123 / 390.625
+top-1 percentage :  55.86%
+top-5 percentage :  78.70%
+step : 124 / 390.625
+top-1 percentage :  55.83%
+top-5 percentage :  78.65%
+step : 125 / 390.625
+top-1 percentage :  55.86%
+top-5 percentage :  78.68%
+step : 126 / 390.625
+top-1 percentage :  55.85%
+top-5 percentage :  78.67%
+step : 127 / 390.625
+top-1 percentage :  55.92%
+top-5 percentage :  78.68%
+step : 128 / 390.625
+top-1 percentage :  55.96%
+top-5 percentage :  78.73%
+step : 129 / 390.625
+top-1 percentage :  56.03%
+top-5 percentage :  78.74%
+step : 130 / 390.625
+top-1 percentage :  56.07%
+top-5 percentage :  78.77%
+step : 131 / 390.625
+top-1 percentage :  56.08%
+top-5 percentage :  78.79%
+step : 132 / 390.625
+top-1 percentage :  56.12%
+top-5 percentage :  78.79%
+step : 133 / 390.625
+top-1 percentage :  56.10%
+top-5 percentage :  78.81%
+step : 134 / 390.625
+top-1 percentage :  56.09%
+top-5 percentage :  78.81%
+step : 135 / 390.625
+top-1 percentage :  56.07%
+top-5 percentage :  78.79%
+step : 136 / 390.625
+top-1 percentage :  56.06%
+top-5 percentage :  78.78%
+step : 137 / 390.625
+top-1 percentage :  56.12%
+top-5 percentage :  78.83%
+step : 138 / 390.625
+top-1 percentage :  56.08%
+top-5 percentage :  78.84%
+step : 139 / 390.625
+top-1 percentage :  56.08%
+top-5 percentage :  78.87%
+step : 140 / 390.625
+top-1 percentage :  56.10%
+top-5 percentage :  78.92%
+step : 141 / 390.625
+top-1 percentage :  56.09%
+top-5 percentage :  78.95%
+step : 142 / 390.625
+top-1 percentage :  56.12%
+top-5 percentage :  78.95%
+step : 143 / 390.625
+top-1 percentage :  56.14%
+top-5 percentage :  78.98%
+step : 144 / 390.625
+top-1 percentage :  56.16%
+top-5 percentage :  79.00%
+step : 145 / 390.625
+top-1 percentage :  56.17%
+top-5 percentage :  79.02%
+step : 146 / 390.625
+top-1 percentage :  56.16%
+top-5 percentage :  79.00%
+step : 147 / 390.625
+top-1 percentage :  56.16%
+top-5 percentage :  79.01%
+step : 148 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  79.05%
+step : 149 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  79.04%
+step : 150 / 390.625
+top-1 percentage :  56.25%
+top-5 percentage :  79.05%
+step : 151 / 390.625
+top-1 percentage :  56.19%
+top-5 percentage :  79.01%
+step : 152 / 390.625
+top-1 percentage :  56.19%
+top-5 percentage :  79.02%
+step : 153 / 390.625
+top-1 percentage :  56.26%
+top-5 percentage :  79.05%
+step : 154 / 390.625
+top-1 percentage :  56.26%
+top-5 percentage :  79.06%
+step : 155 / 390.625
+top-1 percentage :  56.24%
+top-5 percentage :  79.04%
+step : 156 / 390.625
+top-1 percentage :  56.22%
+top-5 percentage :  79.04%
+step : 157 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  79.01%
+step : 158 / 390.625
+top-1 percentage :  56.16%
+top-5 percentage :  79.00%
+step : 159 / 390.625
+top-1 percentage :  56.13%
+top-5 percentage :  79.00%
+step : 160 / 390.625
+top-1 percentage :  56.18%
+top-5 percentage :  79.04%
+step : 161 / 390.625
+top-1 percentage :  56.16%
+top-5 percentage :  78.99%
+step : 162 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  79.02%
+step : 163 / 390.625
+top-1 percentage :  56.18%
+top-5 percentage :  78.98%
+step : 164 / 390.625
+top-1 percentage :  56.15%
+top-5 percentage :  78.98%
+step : 165 / 390.625
+top-1 percentage :  56.17%
+top-5 percentage :  78.98%
+step : 166 / 390.625
+top-1 percentage :  56.19%
+top-5 percentage :  79.00%
+step : 167 / 390.625
+top-1 percentage :  56.25%
+top-5 percentage :  78.98%
+step : 168 / 390.625
+top-1 percentage :  56.23%
+top-5 percentage :  79.00%
+step : 169 / 390.625
+top-1 percentage :  56.24%
+top-5 percentage :  78.98%
+step : 170 / 390.625
+top-1 percentage :  56.25%
+top-5 percentage :  79.00%
+step : 171 / 390.625
+top-1 percentage :  56.23%
+top-5 percentage :  79.01%
+step : 172 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  79.01%
+step : 173 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  79.01%
+step : 174 / 390.625
+top-1 percentage :  56.24%
+top-5 percentage :  79.01%
+step : 175 / 390.625
+top-1 percentage :  56.22%
+top-5 percentage :  79.01%
+step : 176 / 390.625
+top-1 percentage :  56.20%
+top-5 percentage :  78.98%
+step : 177 / 390.625
+top-1 percentage :  56.19%
+top-5 percentage :  79.00%
+step : 178 / 390.625
+top-1 percentage :  56.27%
+top-5 percentage :  79.03%
+step : 179 / 390.625
+top-1 percentage :  56.28%
+top-5 percentage :  79.05%
+step : 180 / 390.625
+top-1 percentage :  56.28%
+top-5 percentage :  79.04%
+step : 181 / 390.625
+top-1 percentage :  56.25%
+top-5 percentage :  79.02%
+step : 182 / 390.625
+top-1 percentage :  56.22%
+top-5 percentage :  78.99%
+step : 183 / 390.625
+top-1 percentage :  56.24%
+top-5 percentage :  79.00%
+step : 184 / 390.625
+top-1 percentage :  56.22%
+top-5 percentage :  78.96%
+step : 185 / 390.625
+top-1 percentage :  56.21%
+top-5 percentage :  78.96%
+step : 186 / 390.625
+top-1 percentage :  56.24%
+top-5 percentage :  78.96%
+step : 187 / 390.625
+top-1 percentage :  56.27%
+top-5 percentage :  78.98%
+step : 188 / 390.625
+top-1 percentage :  56.26%
+top-5 percentage :  79.00%
+step : 189 / 390.625
+top-1 percentage :  56.28%
+top-5 percentage :  79.00%
+step : 190 / 390.625
+top-1 percentage :  56.29%
+top-5 percentage :  79.00%
+step : 191 / 390.625
+top-1 percentage :  56.32%
+top-5 percentage :  79.02%
+step : 192 / 390.625
+top-1 percentage :  56.35%
+top-5 percentage :  79.06%
+step : 193 / 390.625
+top-1 percentage :  56.34%
+top-5 percentage :  79.05%
+step : 194 / 390.625
+top-1 percentage :  56.32%
+top-5 percentage :  79.01%
+step : 195 / 390.625
+top-1 percentage :  56.34%
+top-5 percentage :  79.01%
+step : 196 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  79.01%
+step : 197 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  79.00%
+step : 198 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.02%
+step : 199 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.03%
+step : 200 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.03%
+step : 201 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  79.05%
+step : 202 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.03%
+step : 203 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  79.03%
+step : 204 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.04%
+step : 205 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.04%
+step : 206 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.01%
+step : 207 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  79.02%
+step : 208 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  79.03%
+step : 209 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.00%
+step : 210 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  78.99%
+step : 211 / 390.625
+top-1 percentage :  56.38%
+top-5 percentage :  78.99%
+step : 212 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  79.00%
+step : 213 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.03%
+step : 214 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.04%
+step : 215 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.06%
+step : 216 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.07%
+step : 217 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.07%
+step : 218 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.04%
+step : 219 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.00%
+step : 220 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  79.00%
+step : 221 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  79.00%
+step : 222 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.00%
+step : 223 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.99%
+step : 224 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.02%
+step : 225 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  79.02%
+step : 226 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  79.02%
+step : 227 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  79.01%
+step : 228 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  79.01%
+step : 229 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.04%
+step : 230 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.03%
+step : 231 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.02%
+step : 232 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.03%
+step : 233 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  79.01%
+step : 234 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  78.98%
+step : 235 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  78.98%
+step : 236 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.96%
+step : 237 / 390.625
+top-1 percentage :  56.38%
+top-5 percentage :  78.94%
+step : 238 / 390.625
+top-1 percentage :  56.38%
+top-5 percentage :  78.96%
+step : 239 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  78.96%
+step : 240 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  78.96%
+step : 241 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  78.97%
+step : 242 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  78.98%
+step : 243 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  78.98%
+step : 244 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.00%
+step : 245 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.98%
+step : 246 / 390.625
+top-1 percentage :  56.38%
+top-5 percentage :  78.97%
+step : 247 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.95%
+step : 248 / 390.625
+top-1 percentage :  56.38%
+top-5 percentage :  78.95%
+step : 249 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  78.94%
+step : 250 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.96%
+step : 251 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.97%
+step : 252 / 390.625
+top-1 percentage :  56.38%
+top-5 percentage :  78.96%
+step : 253 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.96%
+step : 254 / 390.625
+top-1 percentage :  56.36%
+top-5 percentage :  78.95%
+step : 255 / 390.625
+top-1 percentage :  56.35%
+top-5 percentage :  78.93%
+step : 256 / 390.625
+top-1 percentage :  56.35%
+top-5 percentage :  78.90%
+step : 257 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  78.91%
+step : 258 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.93%
+step : 259 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.95%
+step : 260 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  78.95%
+step : 261 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  78.95%
+step : 262 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.94%
+step : 263 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  78.97%
+step : 264 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.97%
+step : 265 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  78.98%
+step : 266 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  78.97%
+step : 267 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  78.97%
+step : 268 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.99%
+step : 269 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  78.99%
+step : 270 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.00%
+step : 271 / 390.625
+top-1 percentage :  56.43%
+top-5 percentage :  79.02%
+step : 272 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  79.04%
+step : 273 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  79.04%
+step : 274 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.03%
+step : 275 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.02%
+step : 276 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  79.00%
+step : 277 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.00%
+step : 278 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  78.98%
+step : 279 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.98%
+step : 280 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.01%
+step : 281 / 390.625
+top-1 percentage :  56.39%
+top-5 percentage :  78.99%
+step : 282 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  78.99%
+step : 283 / 390.625
+top-1 percentage :  56.34%
+top-5 percentage :  78.99%
+step : 284 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  79.01%
+step : 285 / 390.625
+top-1 percentage :  56.34%
+top-5 percentage :  79.01%
+step : 286 / 390.625
+top-1 percentage :  56.35%
+top-5 percentage :  79.02%
+step : 287 / 390.625
+top-1 percentage :  56.37%
+top-5 percentage :  79.03%
+step : 288 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  79.05%
+step : 289 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.07%
+step : 290 / 390.625
+top-1 percentage :  56.42%
+top-5 percentage :  79.06%
+step : 291 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.08%
+step : 292 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  79.07%
+step : 293 / 390.625
+top-1 percentage :  56.40%
+top-5 percentage :  79.07%
+step : 294 / 390.625
+top-1 percentage :  56.41%
+top-5 percentage :  79.08%
+step : 295 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.09%
+step : 296 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.09%
+step : 297 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  79.09%
+step : 298 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  79.08%
+step : 299 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  79.08%
+step : 300 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  79.10%
+step : 301 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.08%
+step : 302 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.08%
+step : 303 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  79.08%
+step : 304 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  79.06%
+step : 305 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  79.06%
+step : 306 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  79.07%
+step : 307 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.07%
+step : 308 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.08%
+step : 309 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.07%
+step : 310 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.07%
+step : 311 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.09%
+step : 312 / 390.625
+top-1 percentage :  56.54%
+top-5 percentage :  79.08%
+step : 313 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.08%
+step : 314 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.06%
+step : 315 / 390.625
+top-1 percentage :  56.54%
+top-5 percentage :  79.04%
+step : 316 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.02%
+step : 317 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.02%
+step : 318 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.02%
+step : 319 / 390.625
+top-1 percentage :  56.49%
+top-5 percentage :  79.03%
+step : 320 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.03%
+step : 321 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.03%
+step : 322 / 390.625
+top-1 percentage :  56.49%
+top-5 percentage :  79.03%
+step : 323 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.02%
+step : 324 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.02%
+step : 325 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.02%
+step : 326 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.01%
+step : 327 / 390.625
+top-1 percentage :  56.49%
+top-5 percentage :  78.99%
+step : 328 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  78.97%
+step : 329 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  78.96%
+step : 330 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  78.97%
+step : 331 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  78.97%
+step : 332 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.99%
+step : 333 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.97%
+step : 334 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  78.97%
+step : 335 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  78.95%
+step : 336 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  78.95%
+step : 337 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  78.95%
+step : 338 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.95%
+step : 339 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  78.95%
+step : 340 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  78.94%
+step : 341 / 390.625
+top-1 percentage :  56.44%
+top-5 percentage :  78.95%
+step : 342 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  78.95%
+step : 343 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.95%
+step : 344 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  78.96%
+step : 345 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.96%
+step : 346 / 390.625
+top-1 percentage :  56.45%
+top-5 percentage :  78.94%
+step : 347 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.96%
+step : 348 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.96%
+step : 349 / 390.625
+top-1 percentage :  56.46%
+top-5 percentage :  78.97%
+step : 350 / 390.625
+top-1 percentage :  56.47%
+top-5 percentage :  78.98%
+step : 351 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  78.97%
+step : 352 / 390.625
+top-1 percentage :  56.49%
+top-5 percentage :  78.99%
+step : 353 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  78.99%
+step : 354 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.00%
+step : 355 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.00%
+step : 356 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.00%
+step : 357 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.01%
+step : 358 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.01%
+step : 359 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.01%
+step : 360 / 390.625
+top-1 percentage :  56.48%
+top-5 percentage :  79.01%
+step : 361 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.02%
+step : 362 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.03%
+step : 363 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.02%
+step : 364 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.02%
+step : 365 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.03%
+step : 366 / 390.625
+top-1 percentage :  56.55%
+top-5 percentage :  79.06%
+step : 367 / 390.625
+top-1 percentage :  56.55%
+top-5 percentage :  79.06%
+step : 368 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.05%
+step : 369 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.05%
+step : 370 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.06%
+step : 371 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.05%
+step : 372 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.05%
+step : 373 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.06%
+step : 374 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.06%
+step : 375 / 390.625
+top-1 percentage :  56.54%
+top-5 percentage :  79.07%
+step : 376 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.07%
+step : 377 / 390.625
+top-1 percentage :  56.54%
+top-5 percentage :  79.08%
+step : 378 / 390.625
+top-1 percentage :  56.54%
+top-5 percentage :  79.09%
+step : 379 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.08%
+step : 380 / 390.625
+top-1 percentage :  56.53%
+top-5 percentage :  79.08%
+step : 381 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.08%
+step : 382 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.08%
+step : 383 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.07%
+step : 384 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.07%
+step : 385 / 390.625
+top-1 percentage :  56.50%
+top-5 percentage :  79.06%
+step : 386 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.06%
+step : 387 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.06%
+step : 388 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.07%
+step : 389 / 390.625
+top-1 percentage :  56.52%
+top-5 percentage :  79.05%
+step : 390 / 390.625
+top-1 percentage :  56.51%
+top-5 percentage :  79.06%
+step : 391 / 625.0
+top-1 percentage :  56.52%
+top-5 percentage :  79.07%
+
+---------Result :: AlexNet ---------
+
+top-1 percentage :  56.52%
+top-5 percentage :  79.07%
+---------------------------------------
+
+
+
+---------Model :: VGG16 ---------
+
+step : 1 / 390.625
+top-1 percentage :  75.00%
+top-5 percentage :  90.62%
+step : 2 / 390.625
+top-1 percentage :  75.00%
+top-5 percentage :  91.41%
+step : 3 / 390.625
+top-1 percentage :  73.18%
+top-5 percentage :  90.62%
+step : 4 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  90.23%
+step : 5 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.84%
+step : 6 / 390.625
+top-1 percentage :  70.18%
+top-5 percentage :  90.23%
+step : 7 / 390.625
+top-1 percentage :  71.21%
+top-5 percentage :  90.18%
+step : 8 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.53%
+step : 9 / 390.625
+top-1 percentage :  71.01%
+top-5 percentage :  90.36%
+step : 10 / 390.625
+top-1 percentage :  71.41%
+top-5 percentage :  90.55%
+step : 11 / 390.625
+top-1 percentage :  72.02%
+top-5 percentage :  90.70%
+step : 12 / 390.625
+top-1 percentage :  72.33%
+top-5 percentage :  91.02%
+step : 13 / 390.625
+top-1 percentage :  72.24%
+top-5 percentage :  91.05%
+step : 14 / 390.625
+top-1 percentage :  72.66%
+top-5 percentage :  91.07%
+step : 15 / 390.625
+top-1 percentage :  72.29%
+top-5 percentage :  91.20%
+step : 16 / 390.625
+top-1 percentage :  72.02%
+top-5 percentage :  91.02%
+step : 17 / 390.625
+top-1 percentage :  72.38%
+top-5 percentage :  91.08%
+step : 18 / 390.625
+top-1 percentage :  72.61%
+top-5 percentage :  91.10%
+step : 19 / 390.625
+top-1 percentage :  72.66%
+top-5 percentage :  91.28%
+step : 20 / 390.625
+top-1 percentage :  72.66%
+top-5 percentage :  91.21%
+step : 21 / 390.625
+top-1 percentage :  72.25%
+top-5 percentage :  90.96%
+step : 22 / 390.625
+top-1 percentage :  72.12%
+top-5 percentage :  90.98%
+step : 23 / 390.625
+top-1 percentage :  71.94%
+top-5 percentage :  90.90%
+step : 24 / 390.625
+top-1 percentage :  71.81%
+top-5 percentage :  90.79%
+step : 25 / 390.625
+top-1 percentage :  72.12%
+top-5 percentage :  90.88%
+step : 26 / 390.625
+top-1 percentage :  72.18%
+top-5 percentage :  90.93%
+step : 27 / 390.625
+top-1 percentage :  72.16%
+top-5 percentage :  90.94%
+step : 28 / 390.625
+top-1 percentage :  72.21%
+top-5 percentage :  90.88%
+step : 29 / 390.625
+top-1 percentage :  72.17%
+top-5 percentage :  90.84%
+step : 30 / 390.625
+top-1 percentage :  72.27%
+top-5 percentage :  90.81%
+step : 31 / 390.625
+top-1 percentage :  72.40%
+top-5 percentage :  90.90%
+step : 32 / 390.625
+top-1 percentage :  72.41%
+top-5 percentage :  90.87%
+step : 33 / 390.625
+top-1 percentage :  72.30%
+top-5 percentage :  90.67%
+step : 34 / 390.625
+top-1 percentage :  72.24%
+top-5 percentage :  90.74%
+step : 35 / 390.625
+top-1 percentage :  72.28%
+top-5 percentage :  90.74%
+step : 36 / 390.625
+top-1 percentage :  72.22%
+top-5 percentage :  90.69%
+step : 37 / 390.625
+top-1 percentage :  72.04%
+top-5 percentage :  90.54%
+step : 38 / 390.625
+top-1 percentage :  71.92%
+top-5 percentage :  90.50%
+step : 39 / 390.625
+top-1 percentage :  71.98%
+top-5 percentage :  90.42%
+step : 40 / 390.625
+top-1 percentage :  72.13%
+top-5 percentage :  90.49%
+step : 41 / 390.625
+top-1 percentage :  71.89%
+top-5 percentage :  90.32%
+step : 42 / 390.625
+top-1 percentage :  71.88%
+top-5 percentage :  90.31%
+step : 43 / 390.625
+top-1 percentage :  71.78%
+top-5 percentage :  90.33%
+step : 44 / 390.625
+top-1 percentage :  71.70%
+top-5 percentage :  90.41%
+step : 45 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.30%
+step : 46 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.32%
+step : 47 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.39%
+step : 48 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.45%
+step : 49 / 390.625
+top-1 percentage :  71.73%
+top-5 percentage :  90.43%
+step : 50 / 390.625
+top-1 percentage :  71.78%
+top-5 percentage :  90.41%
+step : 51 / 390.625
+top-1 percentage :  71.80%
+top-5 percentage :  90.46%
+step : 52 / 390.625
+top-1 percentage :  71.74%
+top-5 percentage :  90.41%
+step : 53 / 390.625
+top-1 percentage :  71.74%
+top-5 percentage :  90.45%
+step : 54 / 390.625
+top-1 percentage :  71.79%
+top-5 percentage :  90.45%
+step : 55 / 390.625
+top-1 percentage :  71.72%
+top-5 percentage :  90.44%
+step : 56 / 390.625
+top-1 percentage :  71.76%
+top-5 percentage :  90.46%
+step : 57 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.39%
+step : 58 / 390.625
+top-1 percentage :  71.50%
+top-5 percentage :  90.36%
+step : 59 / 390.625
+top-1 percentage :  71.53%
+top-5 percentage :  90.37%
+step : 60 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.39%
+step : 61 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.39%
+step : 62 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.39%
+step : 63 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.36%
+step : 64 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.33%
+step : 65 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.32%
+step : 66 / 390.625
+top-1 percentage :  71.56%
+top-5 percentage :  90.27%
+step : 67 / 390.625
+top-1 percentage :  71.53%
+top-5 percentage :  90.23%
+step : 68 / 390.625
+top-1 percentage :  71.40%
+top-5 percentage :  90.22%
+step : 69 / 390.625
+top-1 percentage :  71.40%
+top-5 percentage :  90.21%
+step : 70 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.26%
+step : 71 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.31%
+step : 72 / 390.625
+top-1 percentage :  71.41%
+top-5 percentage :  90.28%
+step : 73 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.28%
+step : 74 / 390.625
+top-1 percentage :  71.47%
+top-5 percentage :  90.32%
+step : 75 / 390.625
+top-1 percentage :  71.53%
+top-5 percentage :  90.41%
+step : 76 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.39%
+step : 77 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.42%
+step : 78 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.38%
+step : 79 / 390.625
+top-1 percentage :  71.47%
+top-5 percentage :  90.38%
+step : 80 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.36%
+step : 81 / 390.625
+top-1 percentage :  71.46%
+top-5 percentage :  90.37%
+step : 82 / 390.625
+top-1 percentage :  71.41%
+top-5 percentage :  90.30%
+step : 83 / 390.625
+top-1 percentage :  71.48%
+top-5 percentage :  90.30%
+step : 84 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.36%
+step : 85 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.44%
+step : 86 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.43%
+step : 87 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.50%
+step : 88 / 390.625
+top-1 percentage :  71.53%
+top-5 percentage :  90.45%
+step : 89 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.44%
+step : 90 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.44%
+step : 91 / 390.625
+top-1 percentage :  71.53%
+top-5 percentage :  90.41%
+step : 92 / 390.625
+top-1 percentage :  71.48%
+top-5 percentage :  90.40%
+step : 93 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.43%
+step : 94 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.41%
+step : 95 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.31%
+step : 96 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.32%
+step : 97 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.29%
+step : 98 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.31%
+step : 99 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.31%
+step : 100 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.32%
+step : 101 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.30%
+step : 102 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.31%
+step : 103 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.31%
+step : 104 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.32%
+step : 105 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.32%
+step : 106 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.32%
+step : 107 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.30%
+step : 108 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.29%
+step : 109 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.29%
+step : 110 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.31%
+step : 111 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.32%
+step : 112 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.34%
+step : 113 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.30%
+step : 114 / 390.625
+top-1 percentage :  71.50%
+top-5 percentage :  90.28%
+step : 115 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.29%
+step : 116 / 390.625
+top-1 percentage :  71.47%
+top-5 percentage :  90.29%
+step : 117 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.30%
+step : 118 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.25%
+step : 119 / 390.625
+top-1 percentage :  71.47%
+top-5 percentage :  90.24%
+step : 120 / 390.625
+top-1 percentage :  71.48%
+top-5 percentage :  90.23%
+step : 121 / 390.625
+top-1 percentage :  71.46%
+top-5 percentage :  90.22%
+step : 122 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.20%
+step : 123 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.22%
+step : 124 / 390.625
+top-1 percentage :  71.50%
+top-5 percentage :  90.25%
+step : 125 / 390.625
+top-1 percentage :  71.46%
+top-5 percentage :  90.23%
+step : 126 / 390.625
+top-1 percentage :  71.45%
+top-5 percentage :  90.23%
+step : 127 / 390.625
+top-1 percentage :  71.43%
+top-5 percentage :  90.23%
+step : 128 / 390.625
+top-1 percentage :  71.42%
+top-5 percentage :  90.21%
+step : 129 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.22%
+step : 130 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.21%
+step : 131 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.23%
+step : 132 / 390.625
+top-1 percentage :  71.42%
+top-5 percentage :  90.22%
+step : 133 / 390.625
+top-1 percentage :  71.39%
+top-5 percentage :  90.22%
+step : 134 / 390.625
+top-1 percentage :  71.43%
+top-5 percentage :  90.24%
+step : 135 / 390.625
+top-1 percentage :  71.42%
+top-5 percentage :  90.20%
+step : 136 / 390.625
+top-1 percentage :  71.43%
+top-5 percentage :  90.22%
+step : 137 / 390.625
+top-1 percentage :  71.44%
+top-5 percentage :  90.23%
+step : 138 / 390.625
+top-1 percentage :  71.41%
+top-5 percentage :  90.25%
+step : 139 / 390.625
+top-1 percentage :  71.37%
+top-5 percentage :  90.23%
+step : 140 / 390.625
+top-1 percentage :  71.41%
+top-5 percentage :  90.22%
+step : 141 / 390.625
+top-1 percentage :  71.36%
+top-5 percentage :  90.20%
+step : 142 / 390.625
+top-1 percentage :  71.41%
+top-5 percentage :  90.22%
+step : 143 / 390.625
+top-1 percentage :  71.43%
+top-5 percentage :  90.25%
+step : 144 / 390.625
+top-1 percentage :  71.43%
+top-5 percentage :  90.27%
+step : 145 / 390.625
+top-1 percentage :  71.40%
+top-5 percentage :  90.25%
+step : 146 / 390.625
+top-1 percentage :  71.42%
+top-5 percentage :  90.25%
+step : 147 / 390.625
+top-1 percentage :  71.42%
+top-5 percentage :  90.26%
+step : 148 / 390.625
+top-1 percentage :  71.46%
+top-5 percentage :  90.23%
+step : 149 / 390.625
+top-1 percentage :  71.45%
+top-5 percentage :  90.22%
+step : 150 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.24%
+step : 151 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.27%
+step : 152 / 390.625
+top-1 percentage :  71.56%
+top-5 percentage :  90.28%
+step : 153 / 390.625
+top-1 percentage :  71.52%
+top-5 percentage :  90.26%
+step : 154 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.25%
+step : 155 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.27%
+step : 156 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.26%
+step : 157 / 390.625
+top-1 percentage :  71.48%
+top-5 percentage :  90.27%
+step : 158 / 390.625
+top-1 percentage :  71.49%
+top-5 percentage :  90.28%
+step : 159 / 390.625
+top-1 percentage :  71.51%
+top-5 percentage :  90.29%
+step : 160 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.28%
+step : 161 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.28%
+step : 162 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.28%
+step : 163 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.30%
+step : 164 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.27%
+step : 165 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.25%
+step : 166 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.26%
+step : 167 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.29%
+step : 168 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.29%
+step : 169 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.29%
+step : 170 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.27%
+step : 171 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.27%
+step : 172 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.26%
+step : 173 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.27%
+step : 174 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.29%
+step : 175 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 176 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 177 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 178 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 179 / 390.625
+top-1 percentage :  71.70%
+top-5 percentage :  90.30%
+step : 180 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 181 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.31%
+step : 182 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.29%
+step : 183 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.32%
+step : 184 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 185 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.26%
+step : 186 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.28%
+step : 187 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.25%
+step : 188 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.24%
+step : 189 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.24%
+step : 190 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.24%
+step : 191 / 390.625
+top-1 percentage :  71.56%
+top-5 percentage :  90.24%
+step : 192 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.25%
+step : 193 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.24%
+step : 194 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.25%
+step : 195 / 390.625
+top-1 percentage :  71.55%
+top-5 percentage :  90.23%
+step : 196 / 390.625
+top-1 percentage :  71.54%
+top-5 percentage :  90.23%
+step : 197 / 390.625
+top-1 percentage :  71.53%
+top-5 percentage :  90.26%
+step : 198 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.27%
+step : 199 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.28%
+step : 200 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 201 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 202 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.32%
+step : 203 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.31%
+step : 204 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.28%
+step : 205 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.28%
+step : 206 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.28%
+step : 207 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.27%
+step : 208 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.27%
+step : 209 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.28%
+step : 210 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.28%
+step : 211 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.27%
+step : 212 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.28%
+step : 213 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.28%
+step : 214 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.27%
+step : 215 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.26%
+step : 216 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.27%
+step : 217 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.27%
+step : 218 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.26%
+step : 219 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.26%
+step : 220 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.27%
+step : 221 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.24%
+step : 222 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.24%
+step : 223 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.26%
+step : 224 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.25%
+step : 225 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.23%
+step : 226 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.23%
+step : 227 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.22%
+step : 228 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.21%
+step : 229 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.22%
+step : 230 / 390.625
+top-1 percentage :  71.57%
+top-5 percentage :  90.20%
+step : 231 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.21%
+step : 232 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.21%
+step : 233 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.20%
+step : 234 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.21%
+step : 235 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.20%
+step : 236 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 237 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 238 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 239 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.20%
+step : 240 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.21%
+step : 241 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.20%
+step : 242 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.22%
+step : 243 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.20%
+step : 244 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 245 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.18%
+step : 246 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.20%
+step : 247 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.21%
+step : 248 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.24%
+step : 249 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.23%
+step : 250 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.24%
+step : 251 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.23%
+step : 252 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.23%
+step : 253 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.23%
+step : 254 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.20%
+step : 255 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.18%
+step : 256 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 257 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 258 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.18%
+step : 259 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.18%
+step : 260 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.18%
+step : 261 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.18%
+step : 262 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 263 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.19%
+step : 264 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.19%
+step : 265 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.20%
+step : 266 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.20%
+step : 267 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.19%
+step : 268 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.20%
+step : 269 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.20%
+step : 270 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.20%
+step : 271 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.22%
+step : 272 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.24%
+step : 273 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.25%
+step : 274 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.26%
+step : 275 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.26%
+step : 276 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.27%
+step : 277 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.27%
+step : 278 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.26%
+step : 279 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.26%
+step : 280 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.28%
+step : 281 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.28%
+step : 282 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.28%
+step : 283 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.27%
+step : 284 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.26%
+step : 285 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 286 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.30%
+step : 287 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.30%
+step : 288 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 289 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.30%
+step : 290 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 291 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.30%
+step : 292 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.29%
+step : 293 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.29%
+step : 294 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.27%
+step : 295 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.28%
+step : 296 / 390.625
+top-1 percentage :  71.58%
+top-5 percentage :  90.27%
+step : 297 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.30%
+step : 298 / 390.625
+top-1 percentage :  71.60%
+top-5 percentage :  90.29%
+step : 299 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.29%
+step : 300 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.30%
+step : 301 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.30%
+step : 302 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.30%
+step : 303 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.32%
+step : 304 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.32%
+step : 305 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.32%
+step : 306 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.32%
+step : 307 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.32%
+step : 308 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.31%
+step : 309 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.30%
+step : 310 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.30%
+step : 311 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.30%
+step : 312 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.29%
+step : 313 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.29%
+step : 314 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.29%
+step : 315 / 390.625
+top-1 percentage :  71.70%
+top-5 percentage :  90.29%
+step : 316 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.29%
+step : 317 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.30%
+step : 318 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.30%
+step : 319 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.31%
+step : 320 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.31%
+step : 321 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 322 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.31%
+step : 323 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 324 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.31%
+step : 325 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.32%
+step : 326 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.32%
+step : 327 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.31%
+step : 328 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.32%
+step : 329 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.31%
+step : 330 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.31%
+step : 331 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.32%
+step : 332 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.33%
+step : 333 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.34%
+step : 334 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.34%
+step : 335 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.34%
+step : 336 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.34%
+step : 337 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.34%
+step : 338 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.35%
+step : 339 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.36%
+step : 340 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.36%
+step : 341 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.37%
+step : 342 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.38%
+step : 343 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.37%
+step : 344 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.37%
+step : 345 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.39%
+step : 346 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.39%
+step : 347 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.39%
+step : 348 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.39%
+step : 349 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.40%
+step : 350 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.41%
+step : 351 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.42%
+step : 352 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.41%
+step : 353 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.43%
+step : 354 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.44%
+step : 355 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.44%
+step : 356 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.44%
+step : 357 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.43%
+step : 358 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.43%
+step : 359 / 390.625
+top-1 percentage :  71.69%
+top-5 percentage :  90.44%
+step : 360 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.43%
+step : 361 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.43%
+step : 362 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.42%
+step : 363 / 390.625
+top-1 percentage :  71.67%
+top-5 percentage :  90.42%
+step : 364 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.42%
+step : 365 / 390.625
+top-1 percentage :  71.68%
+top-5 percentage :  90.42%
+step : 366 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.40%
+step : 367 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.39%
+step : 368 / 390.625
+top-1 percentage :  71.66%
+top-5 percentage :  90.39%
+step : 369 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.38%
+step : 370 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.38%
+step : 371 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.38%
+step : 372 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.39%
+step : 373 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.39%
+step : 374 / 390.625
+top-1 percentage :  71.65%
+top-5 percentage :  90.40%
+step : 375 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.40%
+step : 376 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.39%
+step : 377 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.40%
+step : 378 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.38%
+step : 379 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.36%
+step : 380 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.37%
+step : 381 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.38%
+step : 382 / 390.625
+top-1 percentage :  71.64%
+top-5 percentage :  90.39%
+step : 383 / 390.625
+top-1 percentage :  71.63%
+top-5 percentage :  90.39%
+step : 384 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.38%
+step : 385 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.39%
+step : 386 / 390.625
+top-1 percentage :  71.61%
+top-5 percentage :  90.38%
+step : 387 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.39%
+step : 388 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.39%
+step : 389 / 390.625
+top-1 percentage :  71.62%
+top-5 percentage :  90.39%
+step : 390 / 390.625
+top-1 percentage :  71.59%
+top-5 percentage :  90.38%
+step : 391 / 625.0
+top-1 percentage :  71.59%
+top-5 percentage :  90.38%
+
+---------Result :: VGG16 ---------
+
+top-1 percentage :  71.59%
+top-5 percentage :  90.38%
+---------------------------------------
+
+
+
+---------Model :: ResNet ---------
+
+step : 1 / 390.625
+top-1 percentage :  72.66%
+top-5 percentage :  92.19%
+step : 2 / 390.625
+top-1 percentage :  70.70%
+top-5 percentage :  89.06%
+step : 3 / 390.625
+top-1 percentage :  68.75%
+top-5 percentage :  88.02%
+step : 4 / 390.625
+top-1 percentage :  69.14%
+top-5 percentage :  88.28%
+step : 5 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  88.59%
+step : 6 / 390.625
+top-1 percentage :  68.88%
+top-5 percentage :  88.80%
+step : 7 / 390.625
+top-1 percentage :  68.42%
+top-5 percentage :  88.39%
+step : 8 / 390.625
+top-1 percentage :  68.95%
+top-5 percentage :  88.77%
+step : 9 / 390.625
+top-1 percentage :  69.18%
+top-5 percentage :  89.15%
+step : 10 / 390.625
+top-1 percentage :  69.30%
+top-5 percentage :  89.30%
+step : 11 / 390.625
+top-1 percentage :  69.32%
+top-5 percentage :  89.28%
+step : 12 / 390.625
+top-1 percentage :  69.40%
+top-5 percentage :  89.26%
+step : 13 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.42%
+step : 14 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.45%
+step : 15 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.48%
+step : 16 / 390.625
+top-1 percentage :  69.53%
+top-5 percentage :  89.26%
+step : 17 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.20%
+step : 18 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.28%
+step : 19 / 390.625
+top-1 percentage :  69.45%
+top-5 percentage :  89.31%
+step : 20 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.26%
+step : 21 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.40%
+step : 22 / 390.625
+top-1 percentage :  70.10%
+top-5 percentage :  89.52%
+step : 23 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.37%
+step : 24 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.42%
+step : 25 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.47%
+step : 26 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.36%
+step : 27 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.41%
+step : 28 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.43%
+step : 29 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.41%
+step : 30 / 390.625
+top-1 percentage :  70.05%
+top-5 percentage :  89.45%
+step : 31 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.39%
+step : 32 / 390.625
+top-1 percentage :  69.95%
+top-5 percentage :  89.38%
+step : 33 / 390.625
+top-1 percentage :  69.96%
+top-5 percentage :  89.35%
+step : 34 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.34%
+step : 35 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.42%
+step : 36 / 390.625
+top-1 percentage :  70.03%
+top-5 percentage :  89.54%
+step : 37 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.51%
+step : 38 / 390.625
+top-1 percentage :  70.11%
+top-5 percentage :  89.54%
+step : 39 / 390.625
+top-1 percentage :  70.17%
+top-5 percentage :  89.58%
+step : 40 / 390.625
+top-1 percentage :  70.12%
+top-5 percentage :  89.57%
+step : 41 / 390.625
+top-1 percentage :  70.08%
+top-5 percentage :  89.60%
+step : 42 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.60%
+step : 43 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.41%
+step : 44 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.36%
+step : 45 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.44%
+step : 46 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.42%
+step : 47 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.49%
+step : 48 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.44%
+step : 49 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.38%
+step : 50 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.36%
+step : 51 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.23%
+step : 52 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.23%
+step : 53 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.21%
+step : 54 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.19%
+step : 55 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.16%
+step : 56 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.17%
+step : 57 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.12%
+step : 58 / 390.625
+top-1 percentage :  69.99%
+top-5 percentage :  89.12%
+step : 59 / 390.625
+top-1 percentage :  70.14%
+top-5 percentage :  89.23%
+step : 60 / 390.625
+top-1 percentage :  70.12%
+top-5 percentage :  89.24%
+step : 61 / 390.625
+top-1 percentage :  70.06%
+top-5 percentage :  89.18%
+step : 62 / 390.625
+top-1 percentage :  70.17%
+top-5 percentage :  89.23%
+step : 63 / 390.625
+top-1 percentage :  70.16%
+top-5 percentage :  89.22%
+step : 64 / 390.625
+top-1 percentage :  70.10%
+top-5 percentage :  89.20%
+step : 65 / 390.625
+top-1 percentage :  70.05%
+top-5 percentage :  89.21%
+step : 66 / 390.625
+top-1 percentage :  69.95%
+top-5 percentage :  89.16%
+step : 67 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.13%
+step : 68 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.14%
+step : 69 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.11%
+step : 70 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.06%
+step : 71 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.05%
+step : 72 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.06%
+step : 73 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.04%
+step : 74 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.10%
+step : 75 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.10%
+step : 76 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.07%
+step : 77 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.10%
+step : 78 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.05%
+step : 79 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.07%
+step : 80 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.10%
+step : 81 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.09%
+step : 82 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.06%
+step : 83 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.04%
+step : 84 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.06%
+step : 85 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.07%
+step : 86 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.07%
+step : 87 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.03%
+step : 88 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  88.98%
+step : 89 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  88.98%
+step : 90 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.04%
+step : 91 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.04%
+step : 92 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.02%
+step : 93 / 390.625
+top-1 percentage :  69.55%
+top-5 percentage :  89.03%
+step : 94 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.04%
+step : 95 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.02%
+step : 96 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.03%
+step : 97 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.05%
+step : 98 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.06%
+step : 99 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.09%
+step : 100 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.05%
+step : 101 / 390.625
+top-1 percentage :  69.55%
+top-5 percentage :  89.08%
+step : 102 / 390.625
+top-1 percentage :  69.52%
+top-5 percentage :  89.05%
+step : 103 / 390.625
+top-1 percentage :  69.53%
+top-5 percentage :  89.06%
+step : 104 / 390.625
+top-1 percentage :  69.54%
+top-5 percentage :  89.06%
+step : 105 / 390.625
+top-1 percentage :  69.50%
+top-5 percentage :  89.09%
+step : 106 / 390.625
+top-1 percentage :  69.49%
+top-5 percentage :  89.08%
+step : 107 / 390.625
+top-1 percentage :  69.54%
+top-5 percentage :  89.08%
+step : 108 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.11%
+step : 109 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.07%
+step : 110 / 390.625
+top-1 percentage :  69.52%
+top-5 percentage :  89.03%
+step : 111 / 390.625
+top-1 percentage :  69.50%
+top-5 percentage :  89.02%
+step : 112 / 390.625
+top-1 percentage :  69.46%
+top-5 percentage :  89.01%
+step : 113 / 390.625
+top-1 percentage :  69.44%
+top-5 percentage :  89.03%
+step : 114 / 390.625
+top-1 percentage :  69.48%
+top-5 percentage :  89.07%
+step : 115 / 390.625
+top-1 percentage :  69.49%
+top-5 percentage :  89.06%
+step : 116 / 390.625
+top-1 percentage :  69.47%
+top-5 percentage :  89.04%
+step : 117 / 390.625
+top-1 percentage :  69.44%
+top-5 percentage :  89.04%
+step : 118 / 390.625
+top-1 percentage :  69.41%
+top-5 percentage :  89.06%
+step : 119 / 390.625
+top-1 percentage :  69.42%
+top-5 percentage :  89.07%
+step : 120 / 390.625
+top-1 percentage :  69.45%
+top-5 percentage :  89.09%
+step : 121 / 390.625
+top-1 percentage :  69.49%
+top-5 percentage :  89.09%
+step : 122 / 390.625
+top-1 percentage :  69.52%
+top-5 percentage :  89.11%
+step : 123 / 390.625
+top-1 percentage :  69.53%
+top-5 percentage :  89.10%
+step : 124 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.14%
+step : 125 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.16%
+step : 126 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.18%
+step : 127 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.21%
+step : 128 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.20%
+step : 129 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.24%
+step : 130 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.24%
+step : 131 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.24%
+step : 132 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.22%
+step : 133 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.23%
+step : 134 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.20%
+step : 135 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.18%
+step : 136 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.19%
+step : 137 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.21%
+step : 138 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.24%
+step : 139 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.23%
+step : 140 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.19%
+step : 141 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.16%
+step : 142 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.13%
+step : 143 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.13%
+step : 144 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.13%
+step : 145 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.15%
+step : 146 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.13%
+step : 147 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.13%
+step : 148 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.14%
+step : 149 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.15%
+step : 150 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.16%
+step : 151 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.16%
+step : 152 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.15%
+step : 153 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.14%
+step : 154 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.14%
+step : 155 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.15%
+step : 156 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.18%
+step : 157 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.17%
+step : 158 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.14%
+step : 159 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.19%
+step : 160 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.15%
+step : 161 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.14%
+step : 162 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.12%
+step : 163 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.11%
+step : 164 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.11%
+step : 165 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.09%
+step : 166 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.06%
+step : 167 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.09%
+step : 168 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.07%
+step : 169 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.06%
+step : 170 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.06%
+step : 171 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.05%
+step : 172 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.05%
+step : 173 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.08%
+step : 174 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+step : 175 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.07%
+step : 176 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.08%
+step : 177 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.08%
+step : 178 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.08%
+step : 179 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.08%
+step : 180 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+step : 181 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.09%
+step : 182 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.09%
+step : 183 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.09%
+step : 184 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.09%
+step : 185 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.09%
+step : 186 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.11%
+step : 187 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.12%
+step : 188 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.12%
+step : 189 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.12%
+step : 190 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.13%
+step : 191 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.16%
+step : 192 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.15%
+step : 193 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.15%
+step : 194 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.15%
+step : 195 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.16%
+step : 196 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.18%
+step : 197 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.20%
+step : 198 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.19%
+step : 199 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.22%
+step : 200 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.22%
+step : 201 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.21%
+step : 202 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.21%
+step : 203 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.19%
+step : 204 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.21%
+step : 205 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.21%
+step : 206 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.20%
+step : 207 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.19%
+step : 208 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.18%
+step : 209 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.17%
+step : 210 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.16%
+step : 211 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.17%
+step : 212 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.17%
+step : 213 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.15%
+step : 214 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.14%
+step : 215 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.15%
+step : 216 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.14%
+step : 217 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.13%
+step : 218 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.15%
+step : 219 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.16%
+step : 220 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.16%
+step : 221 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.14%
+step : 222 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.16%
+step : 223 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.16%
+step : 224 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.18%
+step : 225 / 390.625
+top-1 percentage :  69.99%
+top-5 percentage :  89.19%
+step : 226 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.20%
+step : 227 / 390.625
+top-1 percentage :  70.01%
+top-5 percentage :  89.19%
+step : 228 / 390.625
+top-1 percentage :  69.99%
+top-5 percentage :  89.19%
+step : 229 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.20%
+step : 230 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.17%
+step : 231 / 390.625
+top-1 percentage :  69.96%
+top-5 percentage :  89.17%
+step : 232 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.17%
+step : 233 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.17%
+step : 234 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.18%
+step : 235 / 390.625
+top-1 percentage :  70.01%
+top-5 percentage :  89.20%
+step : 236 / 390.625
+top-1 percentage :  70.01%
+top-5 percentage :  89.19%
+step : 237 / 390.625
+top-1 percentage :  70.01%
+top-5 percentage :  89.21%
+step : 238 / 390.625
+top-1 percentage :  69.99%
+top-5 percentage :  89.21%
+step : 239 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.22%
+step : 240 / 390.625
+top-1 percentage :  70.00%
+top-5 percentage :  89.22%
+step : 241 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.23%
+step : 242 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.24%
+step : 243 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.24%
+step : 244 / 390.625
+top-1 percentage :  70.02%
+top-5 percentage :  89.25%
+step : 245 / 390.625
+top-1 percentage :  70.03%
+top-5 percentage :  89.26%
+step : 246 / 390.625
+top-1 percentage :  70.01%
+top-5 percentage :  89.26%
+step : 247 / 390.625
+top-1 percentage :  70.01%
+top-5 percentage :  89.25%
+step : 248 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.23%
+step : 249 / 390.625
+top-1 percentage :  69.95%
+top-5 percentage :  89.22%
+step : 250 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.23%
+step : 251 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.22%
+step : 252 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.21%
+step : 253 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.21%
+step : 254 / 390.625
+top-1 percentage :  69.91%
+top-5 percentage :  89.21%
+step : 255 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.22%
+step : 256 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.20%
+step : 257 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.19%
+step : 258 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.19%
+step : 259 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.18%
+step : 260 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.18%
+step : 261 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.16%
+step : 262 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.15%
+step : 263 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.14%
+step : 264 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.12%
+step : 265 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.12%
+step : 266 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.13%
+step : 267 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.14%
+step : 268 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.12%
+step : 269 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.13%
+step : 270 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.13%
+step : 271 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.13%
+step : 272 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.12%
+step : 273 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.11%
+step : 274 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.12%
+step : 275 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.12%
+step : 276 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.10%
+step : 277 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.11%
+step : 278 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.12%
+step : 279 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.12%
+step : 280 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.10%
+step : 281 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.10%
+step : 282 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.12%
+step : 283 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.11%
+step : 284 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.10%
+step : 285 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.09%
+step : 286 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.10%
+step : 287 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.11%
+step : 288 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.11%
+step : 289 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.10%
+step : 290 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.10%
+step : 291 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.11%
+step : 292 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.12%
+step : 293 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.10%
+step : 294 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.13%
+step : 295 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.15%
+step : 296 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.15%
+step : 297 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.14%
+step : 298 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.14%
+step : 299 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.14%
+step : 300 / 390.625
+top-1 percentage :  69.96%
+top-5 percentage :  89.16%
+step : 301 / 390.625
+top-1 percentage :  69.98%
+top-5 percentage :  89.17%
+step : 302 / 390.625
+top-1 percentage :  69.97%
+top-5 percentage :  89.16%
+step : 303 / 390.625
+top-1 percentage :  69.96%
+top-5 percentage :  89.16%
+step : 304 / 390.625
+top-1 percentage :  69.95%
+top-5 percentage :  89.16%
+step : 305 / 390.625
+top-1 percentage :  69.94%
+top-5 percentage :  89.15%
+step : 306 / 390.625
+top-1 percentage :  69.95%
+top-5 percentage :  89.15%
+step : 307 / 390.625
+top-1 percentage :  69.95%
+top-5 percentage :  89.16%
+step : 308 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.13%
+step : 309 / 390.625
+top-1 percentage :  69.93%
+top-5 percentage :  89.14%
+step : 310 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  89.13%
+step : 311 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.09%
+step : 312 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.10%
+step : 313 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.11%
+step : 314 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.10%
+step : 315 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.11%
+step : 316 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.09%
+step : 317 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.08%
+step : 318 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.09%
+step : 319 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.11%
+step : 320 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.11%
+step : 321 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.11%
+step : 322 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.11%
+step : 323 / 390.625
+top-1 percentage :  69.90%
+top-5 percentage :  89.11%
+step : 324 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.11%
+step : 325 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.12%
+step : 326 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.12%
+step : 327 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.14%
+step : 328 / 390.625
+top-1 percentage :  69.89%
+top-5 percentage :  89.13%
+step : 329 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  89.13%
+step : 330 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.13%
+step : 331 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.11%
+step : 332 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.12%
+step : 333 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.11%
+step : 334 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.11%
+step : 335 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.12%
+step : 336 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.13%
+step : 337 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.13%
+step : 338 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.13%
+step : 339 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  89.14%
+step : 340 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.14%
+step : 341 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.14%
+step : 342 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  89.14%
+step : 343 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.13%
+step : 344 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.13%
+step : 345 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.13%
+step : 346 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.12%
+step : 347 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.13%
+step : 348 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.13%
+step : 349 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.14%
+step : 350 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.13%
+step : 351 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.11%
+step : 352 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.12%
+step : 353 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.12%
+step : 354 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.13%
+step : 355 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.12%
+step : 356 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.12%
+step : 357 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.10%
+step : 358 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.10%
+step : 359 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.09%
+step : 360 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.08%
+step : 361 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+step : 362 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.08%
+step : 363 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+step : 364 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.08%
+step : 365 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.09%
+step : 366 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.09%
+step : 367 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.09%
+step : 368 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+step : 369 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.09%
+step : 370 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.08%
+step : 371 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.06%
+step : 372 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.06%
+step : 373 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.06%
+step : 374 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.06%
+step : 375 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+step : 376 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.05%
+step : 377 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.05%
+step : 378 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.06%
+step : 379 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.08%
+step : 380 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.08%
+step : 381 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.06%
+step : 382 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.05%
+step : 383 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.06%
+step : 384 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.07%
+step : 385 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.07%
+step : 386 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.07%
+step : 387 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.07%
+step : 388 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.08%
+step : 389 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.08%
+step : 390 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.07%
+step : 391 / 625.0
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+
+---------Result :: ResNet ---------
+
+top-1 percentage :  69.76%
+top-5 percentage :  89.08%
+---------------------------------------
+
+
+---------Model :: googleNet ---------
+
+step : 1 / 390.625
+top-1 percentage :  65.62%
+top-5 percentage :  87.50%
+step : 2 / 390.625
+top-1 percentage :  65.23%
+top-5 percentage :  88.67%
+step : 3 / 390.625
+top-1 percentage :  68.23%
+top-5 percentage :  89.84%
+step : 4 / 390.625
+top-1 percentage :  69.92%
+top-5 percentage :  91.41%
+step : 5 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  90.78%
+step : 6 / 390.625
+top-1 percentage :  69.14%
+top-5 percentage :  90.36%
+step : 7 / 390.625
+top-1 percentage :  69.42%
+top-5 percentage :  90.18%
+step : 8 / 390.625
+top-1 percentage :  68.85%
+top-5 percentage :  89.36%
+step : 9 / 390.625
+top-1 percentage :  68.58%
+top-5 percentage :  89.32%
+step : 10 / 390.625
+top-1 percentage :  68.59%
+top-5 percentage :  89.30%
+step : 11 / 390.625
+top-1 percentage :  68.25%
+top-5 percentage :  89.28%
+step : 12 / 390.625
+top-1 percentage :  68.03%
+top-5 percentage :  89.19%
+step : 13 / 390.625
+top-1 percentage :  68.33%
+top-5 percentage :  88.94%
+step : 14 / 390.625
+top-1 percentage :  68.19%
+top-5 percentage :  88.90%
+step : 15 / 390.625
+top-1 percentage :  68.12%
+top-5 percentage :  88.96%
+step : 16 / 390.625
+top-1 percentage :  68.02%
+top-5 percentage :  89.26%
+step : 17 / 390.625
+top-1 percentage :  68.06%
+top-5 percentage :  89.25%
+step : 18 / 390.625
+top-1 percentage :  68.01%
+top-5 percentage :  89.41%
+step : 19 / 390.625
+top-1 percentage :  68.22%
+top-5 percentage :  89.43%
+step : 20 / 390.625
+top-1 percentage :  68.09%
+top-5 percentage :  89.18%
+step : 21 / 390.625
+top-1 percentage :  68.49%
+top-5 percentage :  89.36%
+step : 22 / 390.625
+top-1 percentage :  68.50%
+top-5 percentage :  89.49%
+step : 23 / 390.625
+top-1 percentage :  68.65%
+top-5 percentage :  89.57%
+step : 24 / 390.625
+top-1 percentage :  68.49%
+top-5 percentage :  89.65%
+step : 25 / 390.625
+top-1 percentage :  68.62%
+top-5 percentage :  89.78%
+step : 26 / 390.625
+top-1 percentage :  68.63%
+top-5 percentage :  89.54%
+step : 27 / 390.625
+top-1 percentage :  68.69%
+top-5 percentage :  89.64%
+step : 28 / 390.625
+top-1 percentage :  68.53%
+top-5 percentage :  89.45%
+step : 29 / 390.625
+top-1 percentage :  68.83%
+top-5 percentage :  89.47%
+step : 30 / 390.625
+top-1 percentage :  69.06%
+top-5 percentage :  89.58%
+step : 31 / 390.625
+top-1 percentage :  69.15%
+top-5 percentage :  89.77%
+step : 32 / 390.625
+top-1 percentage :  69.07%
+top-5 percentage :  89.60%
+step : 33 / 390.625
+top-1 percentage :  68.87%
+top-5 percentage :  89.39%
+step : 34 / 390.625
+top-1 percentage :  69.03%
+top-5 percentage :  89.52%
+step : 35 / 390.625
+top-1 percentage :  68.95%
+top-5 percentage :  89.42%
+step : 36 / 390.625
+top-1 percentage :  68.92%
+top-5 percentage :  89.45%
+step : 37 / 390.625
+top-1 percentage :  68.83%
+top-5 percentage :  89.42%
+step : 38 / 390.625
+top-1 percentage :  68.87%
+top-5 percentage :  89.37%
+step : 39 / 390.625
+top-1 percentage :  68.87%
+top-5 percentage :  89.44%
+step : 40 / 390.625
+top-1 percentage :  68.93%
+top-5 percentage :  89.43%
+step : 41 / 390.625
+top-1 percentage :  69.05%
+top-5 percentage :  89.42%
+step : 42 / 390.625
+top-1 percentage :  69.08%
+top-5 percentage :  89.45%
+step : 43 / 390.625
+top-1 percentage :  69.19%
+top-5 percentage :  89.50%
+step : 44 / 390.625
+top-1 percentage :  69.35%
+top-5 percentage :  89.67%
+step : 45 / 390.625
+top-1 percentage :  69.36%
+top-5 percentage :  89.65%
+step : 46 / 390.625
+top-1 percentage :  69.50%
+top-5 percentage :  89.71%
+step : 47 / 390.625
+top-1 percentage :  69.51%
+top-5 percentage :  89.73%
+step : 48 / 390.625
+top-1 percentage :  69.53%
+top-5 percentage :  89.66%
+step : 49 / 390.625
+top-1 percentage :  69.55%
+top-5 percentage :  89.67%
+step : 50 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.67%
+step : 51 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.74%
+step : 52 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.83%
+step : 53 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.86%
+step : 54 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.92%
+step : 55 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.94%
+step : 56 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.96%
+step : 57 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.86%
+step : 58 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.88%
+step : 59 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.90%
+step : 60 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.91%
+step : 61 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.89%
+step : 62 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.88%
+step : 63 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.96%
+step : 64 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.92%
+step : 65 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.98%
+step : 66 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.99%
+step : 67 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.98%
+step : 68 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  90.00%
+step : 69 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.96%
+step : 70 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.96%
+step : 71 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.96%
+step : 72 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.90%
+step : 73 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.85%
+step : 74 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.93%
+step : 75 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.92%
+step : 76 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.94%
+step : 77 / 390.625
+top-1 percentage :  69.52%
+top-5 percentage :  89.90%
+step : 78 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.99%
+step : 79 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  90.01%
+step : 80 / 390.625
+top-1 percentage :  69.54%
+top-5 percentage :  89.93%
+step : 81 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.90%
+step : 82 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.91%
+step : 83 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.91%
+step : 84 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.91%
+step : 85 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.89%
+step : 86 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.90%
+step : 87 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.96%
+step : 88 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.99%
+step : 89 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.99%
+step : 90 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  90.00%
+step : 91 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  90.03%
+step : 92 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  90.06%
+step : 93 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  90.06%
+step : 94 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  90.06%
+step : 95 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  90.08%
+step : 96 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  90.12%
+step : 97 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  90.14%
+step : 98 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  90.15%
+step : 99 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  90.14%
+step : 100 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  90.15%
+step : 101 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  90.12%
+step : 102 / 390.625
+top-1 percentage :  69.88%
+top-5 percentage :  90.15%
+step : 103 / 390.625
+top-1 percentage :  69.87%
+top-5 percentage :  90.15%
+step : 104 / 390.625
+top-1 percentage :  69.85%
+top-5 percentage :  90.11%
+step : 105 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  90.09%
+step : 106 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  90.10%
+step : 107 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  90.11%
+step : 108 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  90.13%
+step : 109 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  90.08%
+step : 110 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  90.06%
+step : 111 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  90.06%
+step : 112 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  90.07%
+step : 113 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  90.02%
+step : 114 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.99%
+step : 115 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.98%
+step : 116 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.96%
+step : 117 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.93%
+step : 118 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.90%
+step : 119 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.90%
+step : 120 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.88%
+step : 121 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.86%
+step : 122 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.84%
+step : 123 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.86%
+step : 124 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.87%
+step : 125 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.84%
+step : 126 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.84%
+step : 127 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.86%
+step : 128 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.85%
+step : 129 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.79%
+step : 130 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.77%
+step : 131 / 390.625
+top-1 percentage :  69.86%
+top-5 percentage :  89.77%
+step : 132 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.76%
+step : 133 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.72%
+step : 134 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.71%
+step : 135 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.71%
+step : 136 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.69%
+step : 137 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.69%
+step : 138 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.69%
+step : 139 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.71%
+step : 140 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.70%
+step : 141 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.74%
+step : 142 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.74%
+step : 143 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.76%
+step : 144 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.77%
+step : 145 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.77%
+step : 146 / 390.625
+top-1 percentage :  69.81%
+top-5 percentage :  89.81%
+step : 147 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.82%
+step : 148 / 390.625
+top-1 percentage :  69.83%
+top-5 percentage :  89.80%
+step : 149 / 390.625
+top-1 percentage :  69.84%
+top-5 percentage :  89.80%
+step : 150 / 390.625
+top-1 percentage :  69.82%
+top-5 percentage :  89.77%
+step : 151 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.76%
+step : 152 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.74%
+step : 153 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.71%
+step : 154 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.69%
+step : 155 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.65%
+step : 156 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.66%
+step : 157 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.62%
+step : 158 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.63%
+step : 159 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.64%
+step : 160 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.63%
+step : 161 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.62%
+step : 162 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.61%
+step : 163 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.62%
+step : 164 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.63%
+step : 165 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.65%
+step : 166 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.63%
+step : 167 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.65%
+step : 168 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.65%
+step : 169 / 390.625
+top-1 percentage :  69.80%
+top-5 percentage :  89.66%
+step : 170 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.68%
+step : 171 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.67%
+step : 172 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.67%
+step : 173 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.67%
+step : 174 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.66%
+step : 175 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.64%
+step : 176 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.64%
+step : 177 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.62%
+step : 178 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.63%
+step : 179 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.65%
+step : 180 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.64%
+step : 181 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.66%
+step : 182 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.67%
+step : 183 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.66%
+step : 184 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.66%
+step : 185 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.66%
+step : 186 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.69%
+step : 187 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.67%
+step : 188 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.68%
+step : 189 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.69%
+step : 190 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.68%
+step : 191 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.68%
+step : 192 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.67%
+step : 193 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.67%
+step : 194 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.67%
+step : 195 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.67%
+step : 196 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.67%
+step : 197 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.65%
+step : 198 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.65%
+step : 199 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.66%
+step : 200 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.67%
+step : 201 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.66%
+step : 202 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.65%
+step : 203 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.65%
+step : 204 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.64%
+step : 205 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.65%
+step : 206 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.64%
+step : 207 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.64%
+step : 208 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.63%
+step : 209 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.60%
+step : 210 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.58%
+step : 211 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.58%
+step : 212 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.57%
+step : 213 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.58%
+step : 214 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.58%
+step : 215 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.57%
+step : 216 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.55%
+step : 217 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.56%
+step : 218 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.53%
+step : 219 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.53%
+step : 220 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.53%
+step : 221 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.53%
+step : 222 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.51%
+step : 223 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.51%
+step : 224 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.50%
+step : 225 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.50%
+step : 226 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.51%
+step : 227 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.50%
+step : 228 / 390.625
+top-1 percentage :  69.55%
+top-5 percentage :  89.48%
+step : 229 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.48%
+step : 230 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.46%
+step : 231 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.44%
+step : 232 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.46%
+step : 233 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.46%
+step : 234 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.46%
+step : 235 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.48%
+step : 236 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.49%
+step : 237 / 390.625
+top-1 percentage :  69.55%
+top-5 percentage :  89.48%
+step : 238 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.48%
+step : 239 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.47%
+step : 240 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.48%
+step : 241 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.49%
+step : 242 / 390.625
+top-1 percentage :  69.58%
+top-5 percentage :  89.49%
+step : 243 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.48%
+step : 244 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.49%
+step : 245 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.48%
+step : 246 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.48%
+step : 247 / 390.625
+top-1 percentage :  69.56%
+top-5 percentage :  89.46%
+step : 248 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.45%
+step : 249 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.46%
+step : 250 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.45%
+step : 251 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.44%
+step : 252 / 390.625
+top-1 percentage :  69.57%
+top-5 percentage :  89.44%
+step : 253 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.45%
+step : 254 / 390.625
+top-1 percentage :  69.59%
+top-5 percentage :  89.45%
+step : 255 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.45%
+step : 256 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.45%
+step : 257 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.44%
+step : 258 / 390.625
+top-1 percentage :  69.60%
+top-5 percentage :  89.43%
+step : 259 / 390.625
+top-1 percentage :  69.61%
+top-5 percentage :  89.43%
+step : 260 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.44%
+step : 261 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.44%
+step : 262 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.44%
+step : 263 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.44%
+step : 264 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.44%
+step : 265 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.45%
+step : 266 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.44%
+step : 267 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.45%
+step : 268 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.44%
+step : 269 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.45%
+step : 270 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.46%
+step : 271 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.47%
+step : 272 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.47%
+step : 273 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.45%
+step : 274 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.46%
+step : 275 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.47%
+step : 276 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.48%
+step : 277 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.47%
+step : 278 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.47%
+step : 279 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.48%
+step : 280 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.49%
+step : 281 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.49%
+step : 282 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.47%
+step : 283 / 390.625
+top-1 percentage :  69.62%
+top-5 percentage :  89.46%
+step : 284 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.46%
+step : 285 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.45%
+step : 286 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.45%
+step : 287 / 390.625
+top-1 percentage :  69.66%
+top-5 percentage :  89.46%
+step : 288 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.45%
+step : 289 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.47%
+step : 290 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.47%
+step : 291 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.49%
+step : 292 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.50%
+step : 293 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.50%
+step : 294 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.49%
+step : 295 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.50%
+step : 296 / 390.625
+top-1 percentage :  69.63%
+top-5 percentage :  89.50%
+step : 297 / 390.625
+top-1 percentage :  69.64%
+top-5 percentage :  89.49%
+step : 298 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.50%
+step : 299 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.51%
+step : 300 / 390.625
+top-1 percentage :  69.65%
+top-5 percentage :  89.51%
+step : 301 / 390.625
+top-1 percentage :  69.67%
+top-5 percentage :  89.52%
+step : 302 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.53%
+step : 303 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.53%
+step : 304 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.54%
+step : 305 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.54%
+step : 306 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.54%
+step : 307 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.54%
+step : 308 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.54%
+step : 309 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.55%
+step : 310 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.57%
+step : 311 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.57%
+step : 312 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.56%
+step : 313 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.58%
+step : 314 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.57%
+step : 315 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.58%
+step : 316 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.57%
+step : 317 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.57%
+step : 318 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.58%
+step : 319 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.56%
+step : 320 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.55%
+step : 321 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.55%
+step : 322 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.55%
+step : 323 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.54%
+step : 324 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.55%
+step : 325 / 390.625
+top-1 percentage :  69.79%
+top-5 percentage :  89.54%
+step : 326 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.53%
+step : 327 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 328 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 329 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.51%
+step : 330 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 331 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.52%
+step : 332 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.52%
+step : 333 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 334 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.53%
+step : 335 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.54%
+step : 336 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.53%
+step : 337 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.52%
+step : 338 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.53%
+step : 339 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 340 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.52%
+step : 341 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 342 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.53%
+step : 343 / 390.625
+top-1 percentage :  69.78%
+top-5 percentage :  89.53%
+step : 344 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.51%
+step : 345 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.51%
+step : 346 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.51%
+step : 347 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.52%
+step : 348 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.51%
+step : 349 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.51%
+step : 350 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.52%
+step : 351 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.53%
+step : 352 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.53%
+step : 353 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.52%
+step : 354 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.51%
+step : 355 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.51%
+step : 356 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.51%
+step : 357 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.51%
+step : 358 / 390.625
+top-1 percentage :  69.69%
+top-5 percentage :  89.51%
+step : 359 / 390.625
+top-1 percentage :  69.68%
+top-5 percentage :  89.51%
+step : 360 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.52%
+step : 361 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.52%
+step : 362 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.52%
+step : 363 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.52%
+step : 364 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.51%
+step : 365 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.52%
+step : 366 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.51%
+step : 367 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.51%
+step : 368 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.50%
+step : 369 / 390.625
+top-1 percentage :  69.71%
+top-5 percentage :  89.50%
+step : 370 / 390.625
+top-1 percentage :  69.70%
+top-5 percentage :  89.52%
+step : 371 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.53%
+step : 372 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.52%
+step : 373 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.54%
+step : 374 / 390.625
+top-1 percentage :  69.73%
+top-5 percentage :  89.53%
+step : 375 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.54%
+step : 376 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.54%
+step : 377 / 390.625
+top-1 percentage :  69.72%
+top-5 percentage :  89.52%
+step : 378 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.53%
+step : 379 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.52%
+step : 380 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.52%
+step : 381 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.51%
+step : 382 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.51%
+step : 383 / 390.625
+top-1 percentage :  69.76%
+top-5 percentage :  89.52%
+step : 384 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.51%
+step : 385 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.50%
+step : 386 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.51%
+step : 387 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.51%
+step : 388 / 390.625
+top-1 percentage :  69.74%
+top-5 percentage :  89.52%
+step : 389 / 390.625
+top-1 percentage :  69.75%
+top-5 percentage :  89.52%
+step : 390 / 390.625
+top-1 percentage :  69.77%
+top-5 percentage :  89.52%
+step : 391 / 625.0
+top-1 percentage :  69.78%
+top-5 percentage :  89.53%
+
+---------Result :: googleNet ---------
+
+top-1 percentage :  69.78%
+top-5 percentage :  89.53%
+---------------------------------------
+
+
+
