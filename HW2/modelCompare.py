@@ -13,10 +13,9 @@ if __name__ == "__main__":
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
 
-
+    # dataset path
     valdir = '/home/hyerin/modelCompare/ImageNet/val'
-    print(valdir)
-    print(len(os.listdir(valdir)))
+    # dataset load
     val_set = torchvision.datasets.ImageFolder(valdir, transforms.Compose([
             transforms.Scale(256),
             transforms.CenterCrop(224),
@@ -25,8 +24,6 @@ if __name__ == "__main__":
             ]))
     val_loader = torch.utils.data.DataLoader(val_set, batch_size=128, shuffle=True, num_workers=4)
 
-    # test_set = torchvision.datasets.ImageNet(root=valdir+'/val', transform=transform, split='val')
-    # test_loader = data.DataLoader(test_set, batch_size=100, shuffle=True, num_workers=4)
 
     resTop1 = []
     resTop5 = []
