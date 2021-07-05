@@ -10,7 +10,4 @@
 [DATA_PROCESSING&CONVERT_CSV](https://github.com/ShimHyerin/2021-VehicleIntelligence/blob/main/PROJECT1/VehicleStopDetection.py)  
 [TRAIN&RUN](https://github.com/ShimHyerin/2021-VehicleIntelligence/blob/main/PROJECT1/VehicleStopDetection.py)
 
-### Video >> [YouTube](https://youtu.be/zGAzhWR2ZfU)
-발표영상입니다. 
-
 ![image](https://user-images.githubusercontent.com/54926467/117570642-fa773000-b105-11eb-8491-f7555443fa99.png)
